@@ -1,10 +1,7 @@
 # Pizza-Order-App
 An app to order pizza upon login (Swift/iOS).
 
-To run the app: 
--download Pizza-Order-App.zip and open the Xcode project. 
-
-It runs best with Xcode 13.0 and iOS version 15.5
+To run the app, download Pizza-Order-App.zip and open the Xcode project. It runs best with Xcode 13.0 and iOS version 15.5
 
 If the user adds pizzas and logs out of the account, those pizzas will still be there when they log back in.
 
